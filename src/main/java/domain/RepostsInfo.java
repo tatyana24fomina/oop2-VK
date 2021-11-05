@@ -1,7 +1,9 @@
 package domain;
 
-public class ForwardInfo {
+public class RepostsInfo {
     private int count;
+    private int userReposted;
+
 
     //+getters/setters;
 }
