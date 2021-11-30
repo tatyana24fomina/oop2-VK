@@ -30,6 +30,7 @@ public class VKpost {
     private Copyright copyright;
     private PostSource postSource;
     private Donut donut;
+}
 
     //+getters/setters;
-}
+
